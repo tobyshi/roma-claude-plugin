@@ -1,0 +1,23 @@
+{
+  "name": "roma",
+  "displayName": "Roma",
+  "version": "1.0.0",
+  "description": "Roma gives your AI chat a place to keep things. Ask it to save a plan as a note, add tasks to a project, or fill a list, and it is still there tomorrow, in this chat or any other. Start a conversation and it can see where you are: what's due today, what you're working on, recent notes, your lists, and what you asked Roma to remember about you.",
+  "author": {
+    "name": "Milo Mode Inc.",
+    "url": "https://roma.app"
+  },
+  "homepage": "https://roma.app/developers",
+  "license": "SEE LICENSE IN LICENSE",
+  "keywords": [
+    "tasks",
+    "to-do",
+    "notes",
+    "lists",
+    "productivity",
+    "automations"
+  ],
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://roma.app/privacy",
+  "termsOfServiceUrl": "https://roma.app/terms"
+}
