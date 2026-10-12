@@ -1,6 +1,6 @@
 # Roma
 
-Your tasks, notes and memory, in every AI chat. Roma gives your AI chat a place to keep things. Ask it to save a plan as a note, add tasks to a project, or fill a list, and it is still there tomorrow, in this chat or any other. Start a conversation and it can see where you are: what's due today, what you're working on, recent notes, your lists, and what you asked Roma to remember about you.
+The to-do list that does itself, in every AI chat. Roma is the to-do list that does itself. Say what's on your mind and Roma gets straight to work. Come back to something real to review, finish, and keep.
 
 ## Use it
 
