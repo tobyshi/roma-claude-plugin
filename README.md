@@ -1,6 +1,6 @@
 # Roma
 
-The to-do list that does itself, in every AI chat. Roma gives your AI chat a place to keep things. Ask it to save a plan as a note, add tasks to a list, or fill a list of books, contacts or expenses, and it is still there tomorrow, in this chat or any other. Start a conversation and it can see where you are: what's due today, what you're working on, recent notes, your lists, and what you asked Roma to remember about you.
+Your agent's favorite to-do list, in every AI chat. Roma gives your AI chat a place to keep things. Ask it to save a plan as a note, add tasks to a list, or fill a list of books, contacts or expenses, and it is still there tomorrow, in this chat or any other. Start a conversation and it can see where you are: what's due today, what you're working on, recent notes, your lists, and what you asked Roma to remember about you.
 
 ## Use it
 
