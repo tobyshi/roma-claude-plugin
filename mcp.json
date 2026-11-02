@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "roma": {
+      "url": "https://api.roma.app/mcp"
+    }
+  }
+}
