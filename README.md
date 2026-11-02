@@ -2,6 +2,17 @@
 
 Your agent's favorite to-do list, in every AI chat. Roma gives your AI chat a place to keep things. Ask it to save a plan as a note, add tasks to a list, or fill a list of books, contacts or expenses, and it is still there tomorrow, in this chat or any other. Start a conversation and it can see where you are: what's due today, what you're working on, recent notes, your lists, and what you asked Roma to remember about you.
 
+## Install in Claude Code
+
+Two commands in a terminal, then the sign-in inside Claude Code. The plugin brings the Roma server and the skill together, so there is no address to paste.
+
+```sh
+claude plugin marketplace add tobyshi/roma-claude-plugin
+claude plugin install roma@roma
+```
+
+Then run `/mcp` inside Claude Code, choose roma and sign in. In Claude on the web or the desktop app, add Roma from the directory instead.
+
 ## Use it
 
 Ask Claude what is on your plate, to save a plan as a note, to add a few books to your reading list, or to pick up a task and work on it. The skill in this plugin tells Claude when to reach for Roma and how to use its tools; the Roma connector it references is where your tasks, notes and lists live. The first time, Claude opens a browser where you sign in to Roma and approve the connection.
